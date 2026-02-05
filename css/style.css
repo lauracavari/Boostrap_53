@@ -1,0 +1,18 @@
+.v-purple div[class*="col"]{
+    padding: 1rem 2rem;
+    background-color:aquamarine;
+    border: rgb(60, 226, 171) 1px solid;
+    /* text-align: center; */
+}
+
+.v-responsive div[class*="col"]{
+    padding: 1rem 2rem;
+    background-color:rgb(255, 225, 225);
+    border: rgb(255, 159, 159) 1px solid;
+}
+
+.v-nest div div[class="col"]{
+    padding: 1rem 2rem;
+    background-color:rgb(55, 61, 114);
+    border: rgb(34, 44, 73) 1px solid;
+}
